@@ -36,8 +36,8 @@ Essa é a lógica segiuda no front do Fidu.
 
 ## Adicionais interessantes, mas não requeridos
 
+- Pequenos commits explicando seu processo para chegar no resultado
 - Comentários nos códigos
 - Reorganização dos components
-
 
 Qualquer dúvida só chamar

@@ -4,9 +4,17 @@
 
 Listar os nomes de repositório de uma pessoa no Github
 
-## Para rodar o projeto
+## Instalação do projeto
 
-` npm install `
+Após clonar o projeto e navegar na pastar do projeto
+
+``` bash
+npm install
+```
+
+``` bash
+npm start
+```
 
 ## Sobre a arquitetura
 

@@ -1,4 +1,4 @@
-# Teste Técnico do FIDU
+# Teste Técnico do Fiança Rápida
 
 ## Objetivo
 
